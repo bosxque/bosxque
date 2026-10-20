@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420">
+  <defs>
+    <clipPath id="t"><rect width="900" height="420" rx="22"/></clipPath>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2bd2ff"/><stop offset="0.5" stop-color="#ffb800"/><stop offset="1" stop-color="#b44cff"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#t)">
+    <rect width="900" height="420" fill="#0b1026"/>
+    <line x1="0" y1="0" x2="0" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="30" y1="0" x2="30" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="60" y1="0" x2="60" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="90" y1="0" x2="90" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="120" y1="0" x2="120" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="150" y1="0" x2="150" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="180" y1="0" x2="180" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="210" y1="0" x2="210" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="240" y1="0" x2="240" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="270" y1="0" x2="270" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="300" y1="0" x2="300" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="330" y1="0" x2="330" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="360" y1="0" x2="360" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="390" y1="0" x2="390" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="420" y1="0" x2="420" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="450" y1="0" x2="450" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="480" y1="0" x2="480" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="510" y1="0" x2="510" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="540" y1="0" x2="540" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="570" y1="0" x2="570" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="600" y1="0" x2="600" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="630" y1="0" x2="630" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="660" y1="0" x2="660" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="690" y1="0" x2="690" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="720" y1="0" x2="720" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="750" y1="0" x2="750" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="780" y1="0" x2="780" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="810" y1="0" x2="810" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="840" y1="0" x2="840" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="870" y1="0" x2="870" y2="420" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="0" x2="900" y2="0" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="30" x2="900" y2="30" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="60" x2="900" y2="60" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="90" x2="900" y2="90" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="120" x2="900" y2="120" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="150" x2="900" y2="150" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="180" x2="900" y2="180" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="210" x2="900" y2="210" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="240" x2="900" y2="240" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="270" x2="900" y2="270" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="300" x2="900" y2="300" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="330" x2="900" y2="330" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="360" x2="900" y2="360" stroke="#1c2340" stroke-width="1"/><line x1="0" y1="390" x2="900" y2="390" stroke="#1c2340" stroke-width="1"/>
+  </g>
+  <text x="40" y="48" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="800" fill="#ffffff">the engineering path &#9889;</text>
+  <text x="40" y="72" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#7f8ac0">// same instinct, new tools: find the manual mess, automate it</text>
+  <path id="p" d="M20,200 L80.0,200 L154.0,200 L154.0,262 L228.0,262 L302.0,262 L302.0,200 L376.0,200 L450.0,200 L450.0,262 L524.0,262 L598.0,262 L598.0,200 L672.0,200 L746.0,200 L746.0,262 L820.0,262 L880,262" fill="none" stroke="url(#trace)" stroke-width="4" stroke-linejoin="round"/>
+  <circle r="7" fill="#ffffff">
+    <animateMotion dur="8s" repeatCount="indefinite"><mpath href="#p"/></animateMotion>
+  </circle>
+  
+    <circle cx="80.0" cy="200" r="16" fill="#0b1026" stroke="#2bd2ff" stroke-width="4"/>
+    <circle cx="80.0" cy="200" r="6" fill="#2bd2ff"><animate attributeName="opacity" values="1;0.3;1" dur="2.0s" repeatCount="indefinite"/></circle>
+    <circle cx="80.0" cy="200" r="16" fill="none" stroke="#2bd2ff" stroke-width="2">
+      <animate attributeName="r" values="16;30" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+    <text x="80.0" y="122" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#2bd2ff">2016</text>
+    <text x="80.0" y="142" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#ffffff">PLCs</text>
+    <text x="80.0" y="160" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">Siemens S7-1500, sensors,</text>
+    <text x="80.0" y="176" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">valves, DC motors</text>
+    <circle cx="228.0" cy="262" r="16" fill="#0b1026" stroke="#7cff6b" stroke-width="4"/>
+    <circle cx="228.0" cy="262" r="6" fill="#7cff6b"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="228.0" cy="262" r="16" fill="none" stroke="#7cff6b" stroke-width="2">
+      <animate attributeName="r" values="16;30" dur="2.4s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="2.4s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="228.0" y="306" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#7cff6b">2019</text>
+    <text x="228.0" y="326" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#ffffff">B.Eng. UDEM</text>
+    <text x="228.0" y="344" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">electronics &amp; robotics</text>
+    <text x="228.0" y="360" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">GPA 90</text>
+    <circle cx="376.0" cy="200" r="16" fill="#0b1026" stroke="#ffb800" stroke-width="4"/>
+    <circle cx="376.0" cy="200" r="6" fill="#ffb800"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="376.0" cy="200" r="16" fill="none" stroke="#ffb800" stroke-width="2">
+      <animate attributeName="r" values="16;30" dur="2.4s" begin="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="2.4s" begin="1.0s" repeatCount="indefinite"/>
+    </circle>
+    <text x="376.0" y="122" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#ffb800">2019</text>
+    <text x="376.0" y="142" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#ffffff">RPA</text>
+    <text x="376.0" y="160" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">UiPath · Blue Prism</text>
+    <text x="376.0" y="176" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">Televisa, Soriana, Alsea</text>
+    <circle cx="524.0" cy="262" r="16" fill="#0b1026" stroke="#ff6b3d" stroke-width="4"/>
+    <circle cx="524.0" cy="262" r="6" fill="#ff6b3d"><animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="524.0" cy="262" r="16" fill="none" stroke="#ff6b3d" stroke-width="2">
+      <animate attributeName="r" values="16;30" dur="2.4s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="2.4s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="524.0" y="306" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#ff6b3d">2023</text>
+    <text x="524.0" y="326" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#ffffff">C# / .NET</text>
+    <text x="524.0" y="344" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">Power Platform</text>
+    <text x="524.0" y="360" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">for CEMEX via Neoris</text>
+    <circle cx="672.0" cy="200" r="16" fill="#0b1026" stroke="#ff3cac" stroke-width="4"/>
+    <circle cx="672.0" cy="200" r="6" fill="#ff3cac"><animate attributeName="opacity" values="1;0.3;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="672.0" cy="200" r="16" fill="none" stroke="#ff3cac" stroke-width="2">
+      <animate attributeName="r" values="16;30" dur="2.4s" begin="2.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="2.4s" begin="2.0s" repeatCount="indefinite"/>
+    </circle>
+    <text x="672.0" y="122" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#ff3cac">2024</text>
+    <text x="672.0" y="142" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#ffffff">founder</text>
+    <text x="672.0" y="160" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">bxq (ex Recreo)</text>
+    <text x="672.0" y="176" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">Rails · Next.js</text>
+    <circle cx="820.0" cy="262" r="16" fill="#0b1026" stroke="#b44cff" stroke-width="4"/>
+    <circle cx="820.0" cy="262" r="6" fill="#b44cff"><animate attributeName="opacity" values="1;0.3;1" dur="4.0s" repeatCount="indefinite"/></circle>
+    <circle cx="820.0" cy="262" r="16" fill="none" stroke="#b44cff" stroke-width="2">
+      <animate attributeName="r" values="16;30" dur="2.4s" begin="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="2.4s" begin="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="820.0" y="306" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#b44cff">2026</text>
+    <text x="820.0" y="326" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#ffffff">LLM agents</text>
+    <text x="820.0" y="344" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">Claude in production</text>
+    <text x="820.0" y="360" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#b8c1ec">+ Swift iOS</text>
+</svg>
