@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 56" width="220" height="56">
+  <rect x="2" y="2" width="216" height="52" rx="6" fill="#c0c0c0"/>
+  <path d="M2 54 L2 2 L218 2" stroke="#ffffff" stroke-width="4" fill="none"/>
+  <path d="M2 54 L218 54 L218 2" stroke="#404040" stroke-width="4" fill="none"/>
+  <rect x="12" y="12" width="32" height="32" rx="6" fill="#2a9d8f"><animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/></rect>
+  <text x="28" y="34" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="900" fill="#fff">in</text>
+  <text x="58" y="35" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="700" fill="#1d1d1d">linkedin</text>
+</svg>
